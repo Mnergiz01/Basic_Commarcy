@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Ahmet",
+      "lastName": "Yılmaz",
+      "email": "ahmet.yilmaz@email.com",
+      "password": "AY123456"
+    },
+    {
+      "id": "2",
+      "firstName": "Ayşe",
+      "lastName": "Demir",
+      "email": "ayse.demir@email.com",
+      "password": "AD789456"
+    },
+    {
+      "id": "3",
+      "firstName": "Mehmet",
+      "lastName": "Kaya",
+      "email": "mehmet.kaya@email.com",
+      "password": "MK456123"
+    },
+    {
+      "id": "4",
+      "firstName": "Zeynep",
+      "lastName": "Çelik",
+      "email": "zeynep.celik@email.com",
+      "password": "ZC987654"
+    },
+    {
+      "id": "5",
+      "firstName": "Can",
+      "lastName": "Öztürk",
+      "email": "can.ozturk@email.com",
+      "password": "CO321654"
+    },
+    {
+      "id": "6",
+      "firstName": "Muzaffer",
+      "lastName": "Nergiz",
+      "email": "muzaffernergiz0@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "1a59",
+      "firstName": "Ahmet",
+      "lastName": "Nergiz",
+      "email": "ahmetnergiz0@gmail.com",
+      "password": "Ahmet3444"
+    }
+  ]
+}
