@@ -78,5 +78,6 @@ const login = async () => {
       validationErrors.value = ['Bir hata oluştu! Lütfen tekrar deneyin.'];
     }
   }
+  router.push({ name: 'home' });
 };
 </script>
