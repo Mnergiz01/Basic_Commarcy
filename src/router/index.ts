@@ -2,10 +2,9 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 import Homepage from '@/views/Homepage.vue'
 import Loginpage from '@/views/Loginpage.vue'
-import Myprofile from '@/views/Myprofile.vue'
 import Registerpage from '@/views/Registerpage.vue'
 import Mycart from '@/views/Mycart.vue'
-
+import Myprofile from '@/views/Myprofile.vue'
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
