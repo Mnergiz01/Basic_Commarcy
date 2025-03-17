@@ -9,16 +9,16 @@
 </template>
 
 <script setup>
-import { onMounted, ref } from 'vue';
+//import { onMounted, ref } from 'vue';
 
 // Kullanıcı bilgisini localStorage'dan al
-const user = ref(JSON.parse(localStorage.getItem('user') || '{}'));
-console.log("basdf",user.value);
+//const user = ref(JSON.parse(localStorage.getItem('user') || '{}'));
+/*console.log("basdf",user.value);
 onMounted(() => {
   if (!user.value.id) {
     // Eğer kullanıcı bilgisi yoksa login sayfasına yönlendir
     window.location.href = '/login';
   }
-});
+});*/
 import Card from '@/components/Card.vue';
 </script>
