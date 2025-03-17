@@ -115,7 +115,7 @@ const updateProfile = async () => {
         alert('Bir hata oluştu.');
     }
 };
-
+/*
 // Sayfa yüklendiğinde kullanıcı bilgilerini al
 onMounted(() => {
     const user = localStorage.getItem('user');
@@ -123,5 +123,5 @@ onMounted(() => {
         router.push({ name: 'login' });  // Kullanıcı yoksa login sayfasına yönlendir
     }
     getUserData();
-});
+}); */
 </script>
